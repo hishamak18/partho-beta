@@ -48,24 +48,11 @@ const Footer = () => {
     <FOOTER>
       <LeftText>
         © 2021 Built and Design by{"Partho "}
-        <a href="https://www.youtube.com/channel/UCeYt6blRBKuNrEg_-282fSA">
+        <a href="">
           @Partho
         </a>
       </LeftText>
-      {/* <RightText>
-        Reach out to me via 😉
-        <a href="https://twitter.com/Partho">
-          <img src={Twitter} alt="Twitter" />
-        </a>
-        &nbsp;
-        <a href="https://www.instagram.com/Partho/">
-          <img src={Instagram} alt="Instagram" />
-        </a>
-        &nbsp;
-        <a href="mailto:Partho@gmail.com?subject=Email From Your Website">
-          <img src={Gmail} alt="Gmail" />
-        </a>
-      </RightText> */}
+     
     </FOOTER>
   );
 };
